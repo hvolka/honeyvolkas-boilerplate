@@ -1,4 +1,4 @@
-# <center>Honeyvolka's Boilerplate</center>
+# Honeyvolka's Boilerplate
 Preact + Typescript + Webpack = 🤤
 
 ## Structure
