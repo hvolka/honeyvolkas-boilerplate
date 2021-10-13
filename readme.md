@@ -21,7 +21,7 @@ Starts project on dev mode
 Builds project
 
 ## Why should I use this?
-idk
+idk, ask yourself why?
 
 ## License
 MIT License - see "LICENSE.md"
