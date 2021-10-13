@@ -1,0 +1,15 @@
+body {
+	display: flex;
+	margin: 0 auto;
+	width: 400px;
+	font-family: sans-serif;
+}
+.btn {
+	display: inline-flex;
+	padding: 5px 10px;
+	background-color: hotpink;
+	color: #fff;
+	border-radius: 100px;
+	font-weight: bold;
+	text-decoration: none;
+}
